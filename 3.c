@@ -5,7 +5,6 @@ int main() {
   char name[50];
   int bornYear;
 
-
   printf("Digite seu nome: \n ");
   scanf("%s", name);
   printf("Digite o seu ano de nascimento: \n ");
